@@ -1,3 +1,6 @@
+<img src="./ampachecoator.jpg" width="338" height="375" />
+
+
 - 👋 Hi, I’m @ampachecoator
 - 👀 I’m interested in Devops, Modern Applications Development, Kubernetes and Containers and Old Digital Transformations Stuff 
 - 🌱 I’m currently learning Go
